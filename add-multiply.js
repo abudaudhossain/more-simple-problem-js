@@ -4,7 +4,7 @@ tableWood = 10cft/table
 bedWood = 50cft/bed
 */
 
-function woodCalculator(chairQuantity, tableQuantity, bedQuantity){
+function woodCalculator(chairQuantity, tableQuantity, bedQuantity) {
     const perChaorWood = 3;
     const perTableWood = 10;
     const perBedWood = 50;
